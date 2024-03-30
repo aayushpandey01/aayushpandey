@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aayushpandit01" target="blank"><img src="https://img.shields.io/twitter/follow/aayushpandit01?logo=twitter&style=for-the-badge" alt="aayushpandit01" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning **DSA, Artificial Intelligence & Machine Learning** 
 
 - 📫 How to reach me **aayushpandey0001@gmail.com**
 
